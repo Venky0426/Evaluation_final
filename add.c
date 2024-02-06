@@ -11,7 +11,7 @@ int main() {
     
     sum = num1 * num2;
     
-    printf("The multiplication of %d and %d is %d.", num1, num2, sum);
+    printf("The multiplication of %d and %d is %d.");
     
     return 0;
 }
