@@ -9,9 +9,9 @@ int main() {
     printf("Enter the second no. : ");
     scanf("%d", &num2);
     
-    sum = num1 * num2;
+    sum = num1 - num2;
     
-    printf("The multiplication of %d and %d is %d.");
+    printf("The sub of %d and %d is %d.");
     
     return 0;
 }
